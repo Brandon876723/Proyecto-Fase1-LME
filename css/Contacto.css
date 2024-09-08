@@ -60,3 +60,15 @@ input::placeholder, textarea::placeholder{
 .btn:hover{
     background-color: rgb(12, 129, 229);
 }
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    margin-bottom: 3%;
+    color: black;
+    font-weight: bold;
+}
+
+ul li:hover{
+    background-color: aquamarine;
+}
